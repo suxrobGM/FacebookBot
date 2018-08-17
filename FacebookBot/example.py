@@ -5,6 +5,6 @@ def main():
     pass
 
 if __name__ == "__main__":
-    bot = FacebookBot("suxrobGM@gmail.com", "1suxrobbek1")
+    bot = FacebookBot("YOUR_EMAIL", "YOUR_PASSWORD")
     bot.add_friends()
    
